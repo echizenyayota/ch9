@@ -1,5 +1,5 @@
 function getCookie(name) {
-    let value = null;
+    // let value = null;
     // 取得したクッキー文字列を「;」で分類
     let cookies = document.cookie.split(';');
     cookies.forEach(function(c) {
